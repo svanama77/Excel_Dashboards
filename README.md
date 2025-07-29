@@ -96,7 +96,7 @@ These columns serve as the source for dropdown options used in the dashboard fil
   ![Job Title Column](images/job_title.png)
 
 - 🕒 Job Type List  
-  ![Job Type Column](images/job_type_col.png)
+  ![Job Type Column](images/Job_type_col.png)
 
 ---  
 
